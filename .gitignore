@@ -1,0 +1,4 @@
+# Arquivos
+logs/
+*.log
+.vscode/
