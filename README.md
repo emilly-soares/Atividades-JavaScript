@@ -1,6 +1,6 @@
 # Desenvolvimento Baseado em Frameworks 1 - Atividade de Fixação: JavaScript Básico
 
-Este repositório contém resoluções para exercícios de JavaScript básico como parte da disciplina de Desenvolvimento Baseado em Frameworks 1. 
+Este repositório contém resoluções para exercícios de JavaScript básico como parte da disciplina de Desenvolvimento Baseado em Frameworks 1. 🚀 🚀
 
 ## Exercícios
 
