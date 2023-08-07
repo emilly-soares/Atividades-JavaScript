@@ -49,6 +49,9 @@ Este repositório contém resoluções para exercícios de JavaScript básico co
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request com melhorias ou novos exercícios.
 
+## Autor
+Feito por Emilly Soares 👋🏽 Entre em contato!🚀
+
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
